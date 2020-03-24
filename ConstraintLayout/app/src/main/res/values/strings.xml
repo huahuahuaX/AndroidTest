@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ConstraintLayout</string>
+    <string name="buttom_1">RED</string>
+    <string name="buttom_2">ORANGE</string>
+    <string name="buttom_3">YELLOW</string>
+    <string name="buttom_4">GREEN</string>
+    <string name="buttom_5">BLUE</string>
+    <string name="buttom_6">INDIGO</string>
+    <string name="buttom_7">VIOLET</string>
+</resources>
