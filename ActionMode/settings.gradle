@@ -1,0 +1,2 @@
+rootProject.name='ActionMode2'
+include ':app'
