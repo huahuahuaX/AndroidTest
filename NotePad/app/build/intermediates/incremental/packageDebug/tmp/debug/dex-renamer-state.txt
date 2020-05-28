@@ -1,0 +1,4 @@
+#Thu May 28 16:14:09 CST 2020
+base.0=E\:\\Android Studio\\AndroidTest\\NotePad-master\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
