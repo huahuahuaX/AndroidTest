@@ -2,9 +2,7 @@
 ## 1. 整体界面  
 ![image](https://github.com/huahuahuaX/AndroidTest/blob/master/NotePad/Screenshoots/%E6%95%B4%E4%BD%93.png)  
 
-## 2. 时间戳的实现  
-效果图：  
-![image](https://github.com/huahuahuaX/AndroidTest/blob/master/NotePad/Screenshoots/%E6%95%B4%E4%BD%93.png)  
+## 2. 时间戳的实现    
 ### 2.1 改布局  
 >在原本的`Noteslist_item.xml`文件下  
 >>* 插入线性布局  
@@ -87,10 +85,9 @@ private void Change(SimpleCursorAdapter adapter){
 ```
   
 ## 3. 搜索功能(按标题模糊查找)  
-效果图：  
-![image](https://github.com/huahuahuaX/AndroidTest/blob/master/NotePad/Screenshoots/%E6%95%B4%E4%BD%93.png)  
 ### 3.1 添item  
 效果图：  
+![image](https://github.com/huahuahuaX/AndroidTest/blob/master/NotePad/Screenshoots/%E6%95%B4%E4%BD%93.png)  
 ![image](https://github.com/huahuahuaX/AndroidTest/blob/master/NotePad/Screenshoots/%E6%90%9C%E7%B4%A2.png)  
 >在原本的`list_options_menu.xml`文件下  
 >>* 添加查询item  
